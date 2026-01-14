@@ -67,3 +67,6 @@ debug_container.log
 /x/genutil/data/priv_validator_state.json
 /.envrc
 /.env
+
+
+*.bin
